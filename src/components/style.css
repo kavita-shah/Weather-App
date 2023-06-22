@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#container {
+    margin-top: -50px;
+    background-color: rgb(166, 180, 194);
+    height: 1000px;
+    border: 1px solid black;
+    box-sizing: border-box;
+  }
+
+
+.heading {
+    color: rgb(12, 3, 52);
+    font-weight: 700;
+    margin-left: 43%;
+    margin-top: 50px;
+  }
+  .form-control {
+    
+    margin-top: 100px;
+    height: 40px;
+    width:400px;
+  }
+  .btn  {
+    
+    margin-top: 30px;
+    width: 120px;
+    margin-left: 140px;
+    border: 1px solid black;
+    border-radius: 20px;
+
+  }
+  .search {
+    
+    
+    margin-left: 250px;  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+
+    
+  }
+
+  
